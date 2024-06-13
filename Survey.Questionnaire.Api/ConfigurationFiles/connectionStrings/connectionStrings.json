@@ -1,0 +1,5 @@
+{
+  "connectionsStringConfiguration": {
+    "connectionString": "Data Source=\\Database\\SurveyDatabase"
+  }
+}
